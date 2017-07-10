@@ -1,3 +1,16 @@
 .yes {
     text-align: center;
 }
+ 
+ 
+  .selector
+{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color:black;
+     border: 5px solid;
+     border-color:white;
+     height: 30;
+}
