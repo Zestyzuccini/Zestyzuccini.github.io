@@ -1,17 +1,32 @@
 .yes {
     text-align: center;
+    background-color:black;
+     border: 7px solid;
+     border-color:white;
+     height: 150;
+     
+     
+     /*padding-bottom: 10px;*/
+    
     
 }
 
-h1{color: white; font-size:80px}
+h1{
+    color: white; font-size:80px
+    height: 100
+
+}
 
 body {background-image:
 url("https://lh3.googleusercontent.com/-4Uyt52SZY10/WV6O-0zgc4I/AAAAAAAABjs/dr7cKYvhjiUarwRZTloqGhPgSbcw56bxQCJoC/w530-h484-p-rw/tacocat_art.png");
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: forte}
-    .background-image {
-        border: 7px solid black;
+    font-family: "forte";
     }
-
-
+    a:link {
+    color: white;
+}
+        
+     
+     
+     
