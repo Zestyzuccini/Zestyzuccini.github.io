@@ -3,7 +3,7 @@
     background-color:black;
      border: 7px solid;
      border-color:white;
-     height: 175;
+     height: 220;
      
      
      /*padding-bottom: 10px;*/
@@ -25,7 +25,9 @@ url("https://lh3.googleusercontent.com/-4Uyt52SZY10/WV6O-0zgc4I/AAAAAAAABjs/dr7c
     a:link {
     color: white;
 }
-        
+      p{
+          font-size: 18;
+      }  
      
      
      
